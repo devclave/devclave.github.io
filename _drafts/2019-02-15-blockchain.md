@@ -146,6 +146,7 @@ https://www.instapaper.com/read/1163646225
 -does a node know when it has solved the puzzle? or does it repeatedly query..the source? if the solution it has got is the right one?
 -"When a miner finally comes up with a solution other nodes quickly check it (that’s the one-way street again: solving is hard but checking is easy)"
 -how efficient is blockchain as a database?
+-how the fork of bitcoin occurred
 
 Wallets:
 cryptoart
@@ -171,14 +172,51 @@ bitticket - ticket delivery service
 Shivom - genomic big data, DNA database
 TWO IoT - full wastebins
 nugget e commerce, POS
+CanYa.io, a cryptocurrency-based online marketplace, is determined to change that reality by introducing an escrow contract that is hedged against the current index, which protects both the buyer and the seller from losing out when conducting crypto transactions.
+Colu has developed a mechanism to “dye” very small bitcoin transactions (called “bitcoin dust”) by adding extra data to them so that they can represent bonds, shares or units of precious metals. (is it really that complicated?)
+OpenBazaar - legal silkroad?
+MultiChain, a build-your-own-blockchain platform
+R3 CEV:The first order of business for R3 CEV, a blockchain startup in which UBS has invested alongside Goldman Sachs, JPMorgan and 22 other banks, is to develop a standardised architecture for private ledgers.
 
 -blockchain for curbing piracy:
 https://navms.com/blockchain-may-be-the-missing-link-for-video-protection/
 Vevue on qtum
 Custostech - blockchain and forensic watermarking
 
+smart contracts:
+Further out, some talk of using the technology to make by-then-self-driving cars self-owning, to boot. Such vehicles could stash away some of the digital money they make from renting out their keys to pay for fuel, repairs and parking spaces, all according to preprogrammed rules.---what??
+
 white paper
 predicative script
 fiat currency
+Inner Mongolia, where electricity is cheap.
+"Yet for all this profligacy bitcoin remains limited"
+"Earlier platforms have surmounted similar problems. When millions went online after the invention of the web browser in the 1990s pundits predicted the internet would grind to a standstill: eppur si muove"
+Industrial historians point out that new powers often become available long before the processes that best use them are developed
 
+source above: the great chain of being sure about things
+=========
+vitalik on tc disrupt sf 2017
+A good blockchain needs to have decentralization and some concept of shared memory e.g. btc: there's ltd amt of btc and everyone owns some btc and we know who owns how many
+==========
+https://www.computerworld.com.au/article/606253/understanding-blockchain-hype-why-much-it-nothing-more-than-snake-oil-spin/
 
+Bitcoin isn’t secure because of blockchain; it is secure because the effort and cost of subverting its blockchain is greater than the value of what’s being protected. The effort and cost that protect Bitcoin comes in the form of time, computing power and electricity.
+
+(sidechains) https://gendal.me/2014/10/26/a-simple-explanation-of-bitcoin-sidechains/
+
+========
+more questions
+========
+how to compromise a blockchain...
+What would a hacker do when they have 51% control of all the nodes? would they need to mine every transaction since the inception of the blockchain or can they 'fabricate' a fake history e.g. changing just the last e.g. 2 transactions and copying that new version of the blockchain on to the computers it has 51% control over.
+Isn't an attack on nodes the same as a regular attack as in it can be spotted and and therefore stopped or its effects on the blockchain nullified back to the point where there was no attack detected?
+
+(how a centralized blockchain is NOT just a cumbersome db)
+
+=========
+authoritative guid to bc dev
+
+Distributed Ledger Technology
+
+Naval Ravikant: the key to success is to give society things that it wants, but doesn’t know how to get on its own. You can’t go to school for such things; if you could, the world would already have a steady supply of it.
